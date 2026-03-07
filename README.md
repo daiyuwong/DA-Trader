@@ -1,5 +1,5 @@
 # DA-Trader
-(STILL WORKS ONLY ON PAPER AND ISNT YET LIVE)
+(STILL WORKS ONLY IN PAPER TRADING AND ISN'T YET LIVE)
 
 First version of meme coin trading bot that operates based on pumpfun data. 
 

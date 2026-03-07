@@ -1,5 +1,5 @@
 # DA-Trader
-Meme coin trading bot. 
+First version of meme coin trading bot that operates based on pumpfun data. 
 
 
 How to run in english

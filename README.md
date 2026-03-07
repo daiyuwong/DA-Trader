@@ -1,4 +1,6 @@
 # DA-Trader
+(STILL WORKS ONLY ON PAPER AND ISNT YET LIVE)
+
 First version of meme coin trading bot that operates based on pumpfun data. 
 
 
